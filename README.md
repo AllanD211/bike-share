@@ -1,12 +1,13 @@
 Date Created
-04 May 2022
+25 April 2022
 
 Project Title
 Bike-share
 
 Description
 Using python to answer statistic question about customer bike share
-behaviour in Chicago, New York city and Washington
+behaviour in Chicago, New York city and Washington.
+Allow user to filter data by month/day of week
 
 Files used
 bike-share.py
